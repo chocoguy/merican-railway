@@ -1,0 +1,5 @@
+bin
+/bin
+./bin
+/obj/Debug/net5.0
+./obj/Debug/net5.0
