@@ -193,24 +193,26 @@
     ]
   },
   "packageFolders": {
-    "/home/chocoguy/.nuget/packages/": {}
+    "C:\\Users\\ezarc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chocoguy/Documents/code/merican-railway/merican-railway.csproj",
+      "projectUniqueName": "C:\\Users\\ezarc\\Documents\\code\\merican-railway\\merican-railway.csproj",
       "projectName": "merican-railway",
-      "projectPath": "/home/chocoguy/Documents/code/merican-railway/merican-railway.csproj",
-      "packagesPath": "/home/chocoguy/.nuget/packages/",
-      "outputPath": "/home/chocoguy/Documents/code/merican-railway/obj/",
+      "projectPath": "C:\\Users\\ezarc\\Documents\\code\\merican-railway\\merican-railway.csproj",
+      "packagesPath": "C:\\Users\\ezarc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ezarc\\Documents\\code\\merican-railway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/chocoguy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ezarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -252,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
